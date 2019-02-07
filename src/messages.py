@@ -49,6 +49,8 @@ if __name__ == '__main__':
                         print(f"Wiadomość do użytkownika {t} została wysłana")
         else:
             print("Niepoprawna operacja")
+            parser = argparse.ArgumentParser()
+            parser.print_help()
         crs.close()
         cnx.close()
 
