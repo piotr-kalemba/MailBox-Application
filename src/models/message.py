@@ -14,11 +14,11 @@ sys.path.append("..")
 #      )
 
 class Message:
-    __id = None
-    from_id = None
-    to_id = None
-    text = None
-    creation_date = None
+    # __id = None
+    # from_id = None
+    # to_id = None
+    # text = None
+    # creation_date = None
 
 
     def __init__(self):

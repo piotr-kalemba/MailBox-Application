@@ -62,7 +62,7 @@ if __name__ == '__main__':
                 print("Niepoprawne dane logowania")
         else:
             print("Niepoprawna operacja")
-            parser = argparse.ArgumentParser()
+            # parser = argparse.ArgumentParser()
             parser.print_help()
         crs.close()
         cnx.close()

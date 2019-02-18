@@ -12,3 +12,5 @@ wymagania oraz metody sender i recepient zwracające
 odpowiednio nazwę nadawcy oraz odbiorcy wiadomości.
 Metoda sender jest użyta w pliku messages.py.
 Plik main.py nie zawiera kodu.
+
+git@github.com:piotr-kalemba/Workshops2.git

@@ -14,9 +14,9 @@ from clcrypto import password_hash, check_password
 
 
 class User:
-    __id = None
-    username = None
-    __hashed_password = None
+    # __id = None
+    # username = None
+    # __hashed_password = None
 
 
     def __init__(self):
